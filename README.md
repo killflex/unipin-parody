@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Unipin Parody is a E-commerce Website included with Payment Gateway I made just for fun remaking from <a href="http://unipin.com" target="_blank">Unipin Official</a>. Made with Bootstrap 5.1.3</h4>
+<h4 align="center">Unipin Parody is a E-commerce Website included with Payment Gateway I made just for fun remaking from <a href="http://unipin.com" target="_blank">Unipin Official</a>.</h4>
 
 <div align="center">
 
@@ -16,13 +16,13 @@
 </div>
 
 <p align="center">
-  <a href="#✨-features">Features</a> •
-  <a href="#❓-how-to-use">How To Use</a> •
-  <a href="#📈-development">Development</a> •
-  <a href="#⚙️-bug--feature-request">Bug / Feature Request</a> •
-  <a href="#🔰-credits">Credits</a> •
-  <a href="#👦-author">Author</a> •
-  <a href="#📝-license">License</a>
+  <a href="#features">Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#development">Development</a> •
+  <a href="#bug--feature-request">Bug / Feature Request</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#author">Author</a> •
+  <a href="#license">License</a>
 </p>
 
 ![unipin-parody](https://user-images.githubusercontent.com/97248773/204118058-75284501-02ec-4dd4-b449-b0a2ad0d4ad9.png)
@@ -41,7 +41,7 @@
 
 ---
 
-## ❓ How To Use
+## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) also import the [SQL file](https://github.com/killflex/unipin-parody/tree/main/database) to your MySQL. From your command line:
 
@@ -58,7 +58,7 @@ google-chrome index.html
 > **Note**
 > If you're getting error with databases, don't forget to import the SQL file to your MySQL first. [See this guide](https://makitweb.com/how-to-import-sql-file-to-mysql-using-command-line/).
 
-## 📈 Development
+## Development
 Want to contribute, Great!
 
 To fix a bug or enhance an existing module, follow these steps:
@@ -71,7 +71,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 😁
 
-## ⚙️ Bug / Feature Request
+## Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/killflex/unipin-parody/issues/new) by including your search query and the expected result.
 
@@ -79,7 +79,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ---
 
-## 🔰 Credits
+## Credits
 
 This software uses:
 
@@ -92,12 +92,12 @@ This software uses:
 - [Box Icons](https://boxicons.com/)
 - [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
-## 👦 Author
+## Author
 
 - <a href="http://killflex.github.io">Ferry Hasan</a>.
 - Github : <a href="https://github.com/killflex"> @killflex</a>
 
-## 📝 License
+## License
 - Copyright © 2022 Unipin-parody
 - **Unipin-parody is open-sourced software licensed under the MIT license**
 
