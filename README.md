@@ -28,7 +28,7 @@
 ![unipin-parody](https://user-images.githubusercontent.com/97248773/204118058-75284501-02ec-4dd4-b449-b0a2ad0d4ad9.png)
 ![unipin-parody-dashboard](https://user-images.githubusercontent.com/97248773/204119270-bff113fe-e21a-4cc3-98a8-d691d93f8b4d.png)
 
-## ✨ Features
+## Features
 
 * E-commerce Website with Fully Responsive
   - Desktop
@@ -37,9 +37,6 @@
 * The website is made with PHP, MySQL, Bootstrap 5, css, and other cool library and API.
 * Included with Payment Gateway using [Stripe](https://stripe.com) API
 * Integrated with Admin Dashboard and Database using MySQL
-
-
----
 
 ## How To Use
 
@@ -76,8 +73,6 @@ To fix a bug or enhance an existing module, follow these steps:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/killflex/unipin-parody/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/killflex/unipin-parody/issues/new). Please include sample queries and their corresponding results.
-
----
 
 ## Credits
 
